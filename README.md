@@ -28,7 +28,7 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
-#Chapter 1
+# Chapter 1
 
 I learned that data preprocessing is an important step in preparing raw data for analysis because real-world data can be messy, incomplete, inconsistent, or contain unnecessary information. I learned how to understand a dataset, identify different types of data, and clean it by handling missing values, duplicates, irrelevant features, and noisy data. What surprised me was that even simple problems like duplicate or unnecessary data can affect the results, so properly cleaning and understanding the data is important before using it for further analysis.
 
