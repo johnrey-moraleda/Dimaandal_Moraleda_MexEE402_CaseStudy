@@ -8,12 +8,12 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Dimaandal, John Edward |22-06340 |MEXE-4103 |
+| Moraleda, John Rey | 22-07249|MEXE-4103 |
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Dimaandal| Moraleda |
 |---|---|---|
 | Ch1_2_3 | [link]() | [link]() |
 | Ch4 | [link]() | [link]() |
