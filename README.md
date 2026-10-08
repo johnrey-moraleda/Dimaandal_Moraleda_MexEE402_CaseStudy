@@ -16,12 +16,12 @@ Batangas State University, Alangilan Campus
 | Chapter | Dimaandal| Moraleda |
 |---|---|---|
 | Ch1_2_3 | [https://colab.research.google.com/drive/1aJuALpFoAfKO-Crufdm-fUPx2UYR10Q5]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Ch4 | [https://colab.research.google.com/drive/1Z1_4mnWFQ8eBWW4ii0F3CIY8ZGg5-fWm]() | [link]() |
+| Ch5 | [https://colab.research.google.com/drive/1duip0vj-F1bza3aaNazgen4K_PlNY8iF]() | [link]() |
+| Ch6 | [https://colab.research.google.com/drive/1_qtEMVIMXOYz-psBZqAZ_ao5Csahe3n_]() | [link]() |
+| Ch7 | [https://colab.research.google.com/drive/1njvd_eyPOPCeGNiXe12zzDfFdUF3nsIb]() | [link]() |
+| Ch8 | [https://colab.research.google.com/drive/1uamMwUyPmoeUNmTeNzKSeV1R4qCwyi1Z]() | [link]() |
+| Ch9 | [https://colab.research.google.com/drive/1ichR-ih-al-DJ0riPfNJ0q3e2P3Cbd45]() | [link]() |
 
 ## What we learned
 
