@@ -28,9 +28,17 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
-### Chapter 1
+### Chapter 1-3
 
 I learned that data preprocessing is an important step in preparing raw data for analysis because real-world data can be messy, incomplete, inconsistent, or contain unnecessary information. I learned how to understand a dataset, identify different types of data, and clean it by handling missing values, duplicates, irrelevant features, and noisy data. What surprised me was that even simple problems like duplicate or unnecessary data can affect the results, so properly cleaning and understanding the data is important before using it for further analysis.
+
+### Chapter 4
+
+I learned that feature engineering involves creating or transforming features to make the data more useful for analysis. I also learned about binning and encoding categorical values. What surprised me was that changing the way information is represented, such as using Little, Medium, and Lots as ordered values, can make the data more suitable for a model.
+
+### Chapter 5
+
+I learned that scaling makes features comparable so that features with larger numbers do not dominate the model. I also learned that scaling is not always necessary because it depends on the data and the algorithm. What surprised me was how much the difference in numerical ranges, such as Grades being much larger than Study Hours, can affect a model.
 
 ## Errors we found
 
