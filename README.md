@@ -61,6 +61,12 @@ I learned that preprocessing can include handling missing values, grouping conti
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+A major problem in the original notebooks was how missing categorical data was handled. Mean and median imputation, which only work on numbers, were applied to text columns, which caused errors and wrong data types. The fix was to set up SimpleImputer with strategy='constant' and fill_value='missing' for the categorical columns only.
+
+Another key problem was data leakage during feature scaling. The original code fitted tools like StandardScaler on the full dataset before splitting it into training and testing sets, so information from the test data could leak into training. The corrected version fits the scalers on the training data alone, using a ColumnTransformer pipeline.
+
+The last problem was how categorical variables such as Embarked were encoded. Label encoding turned them into numbers, which wrongly suggested that S, C, and Q had an order or a mathematical relationship. The notebook now uses OneHotEncoder(handle_unknown='ignore'), which gives each category its own binary column so that no ranking is implied.
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
