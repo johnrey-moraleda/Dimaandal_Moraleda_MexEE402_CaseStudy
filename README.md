@@ -40,6 +40,22 @@ I learned that feature engineering involves creating or transforming features to
 
 I learned that scaling makes features comparable so that features with larger numbers do not dominate the model. I also learned that scaling is not always necessary because it depends on the data and the algorithm. What surprised me was how much the difference in numerical ranges, such as Grades being much larger than Study Hours, can affect a model.
 
+### Chapter 6
+
+ I learned how outliers can be identified using methods such as Z-score and IQR. I understood that an unusual value does not automatically mean it should be removed because it may still contain useful information. What surprised me was that the value *100* stood out in the sample data even though its Z-score was only about 2.62.
+
+### Chapter 7
+
+I learned that feature selection helps keep only the features that are useful for prediction. I learned that different methods, such as Filter, RFECV, and LassoCV, can select different features from the same dataset. What surprised me was that there is not always one fixed set of “best” features because the selection can depend on the method used.
+
+### Chapter 8
+
+I learned that a preprocessing pipeline organizes several data preparation steps in a specific order, similar to a conveyor belt. I also understood how different columns can require different preprocessing. What surprised me was how a pipeline can make the whole preparation process more consistent and reduce the need to perform each step manually.
+
+### Chapter 9
+
+I learned that preprocessing can include handling missing values, grouping continuous values through discretization, and examining the processed data through plots. I understood that visualization can help reveal patterns that are difficult to notice from numbers alone. What surprised me was how preprocessing can change the way the data is viewed while still preserving useful information.
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
