@@ -58,8 +58,6 @@ I learned that preprocessing can include handling missing values, grouping conti
 
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
 
 A major problem in the original notebooks was how missing categorical data was handled. Mean and median imputation, which only work on numbers, were applied to text columns, which caused errors and wrong data types. The fix was to set up SimpleImputer with strategy='constant' and fill_value='missing' for the categorical columns only.
 
@@ -71,6 +69,11 @@ The last problem was how categorical variables such as Embarked were encoded. La
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
+
+Throughout this notebook, AI tools (ChatGPT/Gemini) were used to support learning and to help with thinking.
+
+- In some sections of the chapters we relied on AI because the description was too brief for us to fully understand the topic.
+- We also used AI to correct an error in the notebook.
 
 ## References
 
